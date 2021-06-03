@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Short comment upon the grounds and reasons of Poyers taking up armes in these second insurrections, which reasons are most falsly and abusively represented to the great advantage of the said Poyer, and to the dishonour and prejudice of the well-affected gentry of the county of Pembrooke, who have alwaies stood firme and right to the Parliament and army published to no other end but to undeceive the reader and to declare the truth in the vindicaion of the wel-affected gentry herein mentioned : and a word in his character.</title>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60063</idno><idno type="EEBO-CITATION">13783405</idno>
+  <idno type="VID">101792</idno>
+  <idno type="EEBO-PROQUEST">2240871032</idno>
+  
+            <idno type="STC">Wing S3579A</idno>
+            <idno type="STC">ESTC R10630</idno>
+            <idno type="OCLC">13783405</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101792)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 850:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Short comment upon the grounds and reasons of Poyers taking up armes in these second insurrections, which reasons are most falsly and abusively represented to the great advantage of the said Poyer, and to the dishonour and prejudice of the well-affected gentry of the county of Pembrooke, who have alwaies stood firme and right to the Parliament and army published to no other end but to undeceive the reader and to declare the truth in the vindicaion of the wel-affected gentry herein mentioned : and a word in his character.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Poyer, John, d. 1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101792:1"/>
+            <pb n="1" facs="tcp:101792:1"/>
+            <head>A short Comment upon the Grounds and Reasons of <hi>Poyers</hi> taking up Armes in these second Insurrections, which Reasons are most falsly and abusively represented to the great advantage of the said <hi>Poyer,</hi> and to the dishonour and prejudice of the well-affected Gentry of the County of <hi>Pembrooke,</hi> who have alwaies stood firme, and right to the Parliament and Army.</head>
+            <head>Published to no other end but to undeceive the Rea<g ref="char:EOLhyphen"/>der, and to declare the truth in the vindication of the wel<g ref="char:EOLhyphen"/>affected Gentry herein mentioned. <hi>And a word in his Character.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is very well knowne to those that have been long since acquainted with the life and principles of the said <hi>Poyer,</hi> that it was not his affection to the Parliament, their Decla<g ref="char:EOLhyphen"/>rations, Religion, Liberty of the Subject, which the Writer pretends induced <hi>Poyer</hi> to take up Armes, but being a notorious lewd liver, a hater of all Religion and godly persons, did beat most cruelly two godly Ministers, Master <hi>Cradooke,</hi> and Mr. <hi>Roberts,</hi> a common Drunkard, a great Swearer and quarreller, borne to nothing, sprung up from a Turn-spit to a Glover, from thence with a rabble of Fellowes loose as himselfe, tooke the advantage of the unsetlednesse of the time, wrested the posses<g ref="char:EOLhyphen"/>sion of the Castle of <hi>Pembrooke</hi> from Captaine <hi>Cuney</hi> the ow<g ref="char:EOLhyphen"/>ner thereof, and nominated <hi>Poyer</hi> their Captaine, this being about a yeare before any enemy came into the County of <hi>Pem<g ref="char:EOLhyphen"/>brooke,</hi> seized upon the Armes in the Towne, and fortified him<g ref="char:EOLhyphen"/>selfe in the said Castle, free-boted into the Country, Plunde<g ref="char:EOLhyphen"/>ring Mr. <hi>Roger Lort,</hi> and others well-affected to the Parlia<g ref="char:EOLhyphen"/>ment, shortly after he and his companions seized upon two Ships in <hi>Milford Haven</hi> of great value, one of three hundred
+<pb n="2" facs="tcp:101792:2"/> Tun, the other about two hundred Tun laden with Tobacco, Salt, and other commodities, the said Shipping and their La<g ref="char:EOLhyphen"/>ding being adjudged to be of no lesse value then six thousand pounds, which he pursed up to his owne use, and being no law<g ref="char:EOLhyphen"/>full Prizes, but taken from well affected men to the Parlia<g ref="char:EOLhyphen"/>ment, and never yet by him accounted for; he tooke away the Goods of severall well-affected people that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed from the Re<g ref="char:EOLhyphen"/>bels in <hi>Ireland</hi> for refuge here, divers of them having petitio<g ref="char:EOLhyphen"/>ned here for releef<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and having by these meanes and many other Out-rages by him committed gotten monies into his hands, he raised a Company of Foot, and a Troop of Horse, which he tooke away by violence from the Inhabitants of the County without Commission, and having thus acted the part of an Outlaw, in this desperate guilty condition with this force he had raised, he was resolved to stand on his Guard in opposition to all force that appeared against him, without re<g ref="char:EOLhyphen"/>gard or affection to the King or Parliament, or to any interest but his owne, and to protect himselfe against all force with his fellow Free-boters, and their ill gotten goods in the strong Castle of <hi>Pembrooke;</hi> and it fortuned that the Kings Forces ap<g ref="char:EOLhyphen"/>peared first against him, and comming to a Parley with them he contracted, That he would keep the Towne and Castle of <hi>Pembrooke</hi> for the King against all such as should claime it in the name of the Parliament; he caused the Townes-men to sub<g ref="char:EOLhyphen"/>scribe with himselfe an instrument to the effect aforesaid, and signed it with the Towne Seale, which was afterwards printed and published at <hi>Oxford,</hi> after this he was received into <hi>La<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<g ref="char:EOLhyphen"/>hornes</hi> favour, but had no Commission from him untill in 1646. all Garrisons in those parts being then reduced to the obedi<g ref="char:EOLhyphen"/>ence of the Parliament, and in <hi>August</hi> 1647. he gave the first Rice to the late Insurrections, by opposing the Generalls Let<g ref="char:EOLhyphen"/>ters and Orders, and so proceeded untill he was proclaimed Traytor by Ordinance of Parliament, and taken Prisoner at <hi>Pembrook.</hi> This is impartially the true History and Character of <hi>Poyer.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="3" facs="tcp:101792:2"/>
+            <head>The Grounds and Reasons of Colo<g ref="char:EOLhyphen"/>nell <hi>Payers</hi> taking Armes in this second difference, &amp;c.</head>
+            <p>
+               <hi>HE was called forth by severall Declarations of Par<g ref="char:EOLhyphen"/>liament</hi>
+               <note place="margin">Those whom he calle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ene<g ref="char:EOLhyphen"/>mies are the onely men pro<g ref="char:EOLhyphen"/>ved firme to the Parliament, and were serviceable to Liev<g ref="char:EOLunhyphen"/>tenant Generall▪ <hi>Cromwell</hi> in the last Insurrections, and at the siege of <hi>Pembrooke,</hi> he was never put out of Com<g ref="char:EOLhyphen"/>mand by the Parliament, but still had a party in the House kept him in command, untill he revolted and opposed the Lord Gene<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>als Forces.</note>
+               <hi>to the defence of his owne and Kingdomes just rights and Liberties: To these ends he tooke up Armes, and so continued for the space of six yeares, to his great charge and trouble: his Enemies by their malice and false information (after they had long endeavoured) brought him in dislike with the Parliament and Army; and by their procurement his Commands were taken from him, before the least proof made, that he had in any way en<g ref="char:EOLhyphen"/>deavoured to betray the Trust for which he first ingaged.</hi>
+            </p>
+            <p>
+               <hi>Notwithstanding the severall Plots, which his Enemies</hi>
+               <note place="margin">What was attemped was by warrant from the Lord Ge<g ref="char:EOLhyphen"/>nerall.</note>
+               <hi>laid, to murder him in the Church at Sermon time, upon the Sabbath day, and at other times, As by their Letters and sufficient Testimony may appeare.</hi>
+            </p>
+            <p>
+               <hi>For safety of his life, he was forced to betake himselfe to</hi>
+               <note place="margin">Col. <hi>Fleming</hi> had the Lord Generalls Commission</note>
+               <hi>the Castle of</hi> Pembroke, <hi>wherein the same day he was be<g ref="char:EOLhyphen"/>sieged by his Enemies, they having no Commission, either form the Parliament or Generall, to warrant them in that Action.</hi>
+            </p>
+            <p>
+               <hi>The next night following, he speedily by a Messenger, made his Addresse to the Parliament and Generall, with Relation of the former Passages, desiring speedy Relief. His Enemies having thus blockt him up, finde a fit time by helpe of powerfull friends, and their false Information, that his just Requests were set by, and a Commission gran<g ref="char:EOLhyphen"/>ted to Colonell</hi> Fleming, <hi>to take the Castle and his Com<g ref="char:EOLhyphen"/>mands from him: Ʋpon the first Summons sent by Col.</hi> Fleming, <hi>he profered to surrender the Castle, and all there
+<pb n="4" facs="tcp:101792:3"/> unto belonging, desiring his Disbursements, Arreares, and Indempnity, to discharge his Ingagements, wherein he stood indebted, for the service of the Parliament, with Assurance of Indempnity, for himselfe and Souldiers, for without it he was assured, there was no abiding for him in that Countrey, by reason of the great power, and Com<g ref="char:EOLhyphen"/>mands his Enemies were intrusted with in that, and other associate Counties, and their inveterate malice, which they carried against him &amp; his friends, for reducing them, and severall Garrisons by them erected in that County of</hi> Pem<g ref="char:EOLhyphen"/>broke,<note place="margin">Those he calles Enemies were never opposite to him, but in endeavouring to pre<g ref="char:EOLhyphen"/>serve the Parliaments Inter<g ref="char:EOLhyphen"/>est. He was not proclamed Tray tor untill he had severall times refused to deliver the Towne and Castle of <hi>Pem<g ref="char:EOLhyphen"/>brocke,</hi> according to the Lord Generalls Letters and orders. The Committee did offer him above 200. li. if he would <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ender, but he refused.</note>
+               <hi>to the obedience of the Parliament. Col.</hi> Fleming <hi>perswaded by his Enemies, refused to treat upon the desires aforesaid,</hi> proclames <hi>him</hi> Rebel, <hi>and streightly besiges the Castle for the space of seven weeks, during which time, or before, he never received any Person of the contrary par<g ref="char:EOLhyphen"/>ty, into the said Castle, or declared against the Parliament or Army.</hi>
+            </p>
+            <p>
+               <hi>After</hi> Fleming <hi>had proclamed him</hi> Rebell <hi>two Gentle<g ref="char:EOLhyphen"/>men, the one a Parliament man, the other belonging to the Army, spake with</hi> Poyer <hi>in the Castle, concerning the sur<g ref="char:EOLhyphen"/>render of the same,</hi> Poyer <hi>proffers if 200 pounds were gi<g ref="char:EOLhyphen"/>ven him by the Committees in part of his Disbursments, to satisfie the Souldiers, (then with him in the Castle) with assurance, that he might safely goe to the Head-quar<g ref="char:EOLhyphen"/>ters, there to make knowne his Condition, he would when demanded, deliver the Castle, and all that was therein.</hi>
+            </p>
+            <p>
+               <hi>This profier not accepted, by the Committee, but much</hi>
+               <note place="margin">Mr. Eliot could not judge <hi>Poyer</hi> deserved indempnity being proclamed Traytor by Ordinanance of Parliament, the word quarter is false.</note>
+               <hi>slighted, shortly after it happened, that a souldier belonging to the Castle, found Letters that were directed to the Com<g ref="char:EOLhyphen"/>mittee from their Agitator</hi> Elliot <hi>then in</hi> London: <hi>These Letters were brought to</hi> Poyer, <hi>amongst other things, men<g ref="char:EOLhyphen"/>tioned in these Letters, that in case</hi> Poyer <hi>would deliver the Castle, they should be carefull that</hi> Poyer <hi>should not have Quarter or Indempnity granted him,</hi> Poyer <hi>hereby find<g ref="char:EOLhyphen"/>ing how his life is sought after by his Treachero<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Enemies, was of meere necessity forced to stand upon his defence.</hi>
+            </p>
+            <pb n="5" facs="tcp:101792:3"/>
+            <p>
+               <hi>All these particulars he is able to make good.</hi>
+            </p>
+            <p>
+               <hi>Ʋpon a Salley forth of the Castle, takes severall of Colle.</hi>
+               <note place="margin">The Souldiers and Officers went off up<g ref="char:EOLhyphen"/>on Articles, with Col. <hi>Buttler</hi> from the Church of <hi>Pulc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohon</hi> when <hi>Poyer</hi> was in his Castle 4 miles off.</note> Flemings <hi>Officers and Souldiers, with the Surgeon &amp; some Sailors, Belonging to the Ship</hi> Providence, <hi>which besieged the Castle by Sea: all the same Prisoners he releast, the same day, giving them monies, and passes for</hi> England, <hi>and sent the Surgeon and S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilors aboard, and suffered Captain</hi> Jordane <hi>Commander of the said Ship, to draw her off, with</hi>
+               <note place="margin">The Saylers neither Captaine <hi>Jordon</hi> nor his Ship were ever under <hi>Poyers</hi> power.</note>
+               <hi>her Ordnance, Ammunition, and Furniture, which at that time lay all in his hand to a forc'd her to have yeelded, sunk, or <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ired, as the Company then aboard can testifie.</hi>
+            </p>
+            <p>
+               <hi>He hoping thereby that the Parliament in time might be</hi>
+               <note place="margin">Here he mutters a<g ref="char:EOLhyphen"/>gainst the Liev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Gen. and his Forces, hee would never give an accompt though he was served with a warrant from the Committee of ac<g ref="char:EOLhyphen"/>compts, but run out of this towne upon service.</note>
+               <hi>informed of his former faithfull services, his present suf<g ref="char:EOLhyphen"/>ferings, and the malice of his enemies.</hi>
+            </p>
+            <p>
+               <hi>But the active Solicitations, and false Informations, now againe set on foot by his Enemies. with assistance of their potent friends, prevaile, that a powerfull party was Orde<g ref="char:EOLhyphen"/>red to force him to deliver the said Cas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le, before he was called to give an account of the former Passages, or the rea<g ref="char:EOLhyphen"/>sons that had induced him thereto.</hi>
+            </p>
+            <p>
+               <hi>Its conceived, that too much credit was given to his</hi>
+               <note place="margin">Its conceived that to much credit was gi<g ref="char:EOLhyphen"/>ven to such a bloud<g ref="char:EOLhyphen"/>hound as <hi>Poyer</hi> and to his friends, or he had not continued so long in command to the Prejudice of the Par<g ref="char:EOLhyphen"/>liament, and the well affected in those parts whom he hath undon by plundering them.</note>
+               <hi>bloudy enemies, whose endeavours were more to drive on their owne Designes, then to benefit the Publique.</hi>
+            </p>
+            <p>
+               <hi>His Enemies disperse abroad severall lying Pamphlets, to strengthen themselves in the opinion of the people, to defame and make him as odions to the Parliament and Ar<g ref="char:EOLhyphen"/>my, as possible they could devise.</hi>
+            </p>
+            <p>Pembroke <hi>yeelded upon Articles, and himselfe and some others, rendred unto the mercy of the Parliament▪ the</hi> 11. July, 1648. <hi>since when he hath continued a close Prisoner,</hi>
+               <note place="margin">It is to be wonder<g ref="char:EOLhyphen"/>ed with what impu<g ref="char:EOLhyphen"/>dence it can be urged as a greevance the continuing of him prisoner, when in justice he should have beene adjudged first according to the height of his crime, for he rebelled before any part of this Common-wealth stirred, That he had the eldest of those Children before he was married, and its commonly spoken in <hi>Pembrock</hi> he is not married.</note>
+               <hi>having nothing left to maintain himselfe, his wife, &amp; soure poore Children, but the charity of his fellow Prisoners.</hi>
+            </p>
+            <pb n="6" facs="tcp:101792:4"/>
+            <p>
+               <hi>In the meane time his Enemies cry out for Justice, and</hi>
+               <note place="margin">That the Gentlmen he meanes have been and still continues faithfull servants to the state &amp; it can ne<g ref="char:EOLhyphen"/>ver be made appeare that they have injured the sta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the value of a farthing, but have suffered in their own estate, for their good affection to the Par<g ref="char:EOLhyphen"/>liament at least 12000 pounds by <hi>Poyer</hi> and the Kings party. Those Gen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. which had their Houses bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ned and goods plun<g ref="char:EOLhyphen"/>dered by the Kings party, <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Mr. <hi>Lort▪</hi> Mr. <hi>White</hi> and Mr. <hi>Eliot,</hi> those whom <hi>Poyer</hi> calles his Ene<g ref="char:EOLhyphen"/>mies, but never any of <hi>Poyers</hi> party suffe<g ref="char:EOLhyphen"/>red any thing consi<g ref="char:EOLhyphen"/>derable by the Kings party, and for <hi>Poyer</hi> himself he owned no<g ref="char:EOLhyphen"/>thing but what he took by violence from others. Those Gentlemen have acted most faith<g ref="char:EOLhyphen"/>fully according to their trust in all the said places for the Parliament, but as for the Commission of Array, it is most false for they never saw any such com<g ref="char:EOLhyphen"/>mission, neither was there ever any Commission of Array sate upon or executed in the County of <hi>Pembrocke</hi> and indeed on of <hi>Poyers</hi> prime friends is sequestred for sitting in the Jun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o at <hi>Oxford,</hi> for suing out his pardon there under Seale, and continuing in the Kings Quarters, &amp;c. this being proved by the Oathes of severall witnesses against Sir <hi>Hugh Owe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Baronet.</note>
+               <hi>themselves that were the causers of all these troubles, goe Scot-free, have procured themselves to be made Committee men, Justices of the Peace, and Sequestrators, and have not paid one farthing for their Compositions, and they have kept backe Sequestrations from themselves, and from other Grand Delinquents whereby they have hindred the State of one hundred thousand pounds.</hi>
+            </p>
+            <p>
+               <hi>Such persons that in the beginning of difference between King and Parliament, which tooke part with the Party in the County of</hi> Pembroke, <hi>had their houses burnt, their Cat<g ref="char:EOLhyphen"/>tell and Goods plundred, and their persons imprisoned by the Kings party, they have long expected some satisfaction from the Parliament forth of Malignants Estates in that Countrey, which were the chiefe Actors of their Ruines and Troubles, are now by the conveyance and malice of their Enemies Sequestred and totally ruined and general<g ref="char:EOLhyphen"/>ly all the Malignant party in the Country, which were Commissioners of Array Collectors, Treasurers, Sheriffs, Justices of the Peace, and chiefe Actors against the Parlia<g ref="char:EOLhyphen"/>ment, by sinister meanes, have gained themselves, and their party, to be Commissioners: Committees, Sequestrators, Justices of Peace, Vice-Admirall, to the great oppression and utter undoing of all those, which hath faithfully served the Parliament. All which he is able to make appeare, if a reasonable time be granted him.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="7" facs="tcp:101792:4"/>
+            <head>Services done the PARLIAMENT by Colonell <hi>Poyer.</hi>
+            </head>
+            <p n="1">1. <hi>THat Colonell</hi> Poyer <hi>was one of the first that declared in</hi>
+               <note place="margin">1. His Character in the beginning shews like a Free-booter, he took up Arms for himself and none o<g ref="char:EOLhyphen"/>ther. 2. That he ne<g ref="char:EOLhyphen"/>ver was out of the town of Pembrooke to take any. 3. The taking of such a Ship of three hundred <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in manner exprest is, most false, he tooke such a Ship laden with Tobacco in <hi>Milford</hi> as aforesaid, and is accomptable to divers well-affe<g ref="char:EOLhyphen"/>cted Merchants in London for it. 4. He never tooke any Ship but in <hi>Milford-Haven▪</hi> and the last he tooke from under the pow<g ref="char:EOLhyphen"/>er of the Parliaments Ships then in the Harbor. 5. That he was never able to fortifie towne, or Castle to the value of four pence of his owne goods, but what he raised from the Country. 6. That amongst all his untruths this is the most false and scandalous, for not one of those Gentlemen ever appeared against any Garrison of his. 7. He never raised a quarter part of the Forces pretended, but observe in the beginning how he raised them. 8. That he most basely lost the Castle of Langho<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e to the Kings Forces, and about one thousand pounds worth of provisions, and never struck stroke for it, and in like manner the Castle of Carew on <hi>Gerrads</hi> last being there; that he never was able to give Corne of his owne, but he hath imbeziled and sold away the Parliaments provisions severall times.</note>
+               <hi>Armes for the Parliament in South-wales.</hi>
+            </p>
+            <p n="2">2. <hi>That he tooke three Irish Merchants that were going beyond the seas, imployed by the Irish Rebells to bring over Arme<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>itions.</hi>
+            </p>
+            <p n="3">3. <hi>That he tooke Colonell</hi> Christopher Beling, <hi>Captaine</hi> Tho<g ref="char:EOLhyphen"/>mas Darsey, <hi>Capt.</hi> Edw. Darsey, <hi>Capt.</hi> Kelegrew, <hi>and</hi> Mologa Frier, <hi>all Irish Papists that came from France, and bound for Ire<g ref="char:EOLhyphen"/>land, to assist the Irish Rebells.</hi>
+            </p>
+            <p n="4">4. <hi>That be tooke a Ship of three hundred tuns, twenty six Guns, Commissioned by the Marquesse of Ormond, for a Man of Warre a<g ref="char:EOLhyphen"/>gainst the Parliament.</hi>
+            </p>
+            <p n="5">5. <hi>That he tooke a Ship of sixty tuns, foure Guns, Commissioned by Sir</hi> John Penington <hi>for a Man of Warre, and bound for Ireland to bring souldiers for England against the Parliament.</hi>
+            </p>
+            <p n="6">6. <hi>That he fortified the Towne and Castle of Pembrooke, with Lunsey-house, and Cary-Castle, and furnished the Garrisins with Ordnance, Armes, Men, Victual, and Ammunitions for the Parlia<g ref="char:EOLhyphen"/>ment against the Earle of</hi> Carbury, <hi>Col.</hi> Roger Lort, Sampson Lort, John Lort, John Elliot, Henry White, Herbert Perot, Thomas Bowen, <hi>Gentlemen, and others.</hi>
+            </p>
+            <p n="7">7. <hi>That he raised one Troop of Horse, two Troops of Dragoons, and three Foot Companies, all armed in the service of the Par<g ref="char:EOLhyphen"/>liament.</hi>
+            </p>
+            <p n="8">8. <hi>That be furnished the Protestants in Dublin and Youghall in Ireland, with great quantites of Corne and Victualls in their great extremity, forc'd on them by the Irish Rebells.
+<pb facs="tcp:101792:5"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, Cary-Castle, and <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>liament</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>se were in <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Na<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>by Bat<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll, and his Forces were drawn off long before from <hi>Pem<g ref="char:EOLhyphen"/>breakstire.</hi> 10. That <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e a<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>sted them bet<g ref="char:EOLhyphen"/>ter at the Fight at St. Faggons when they were rou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, for at the first taking in of Cannarthen he sheltered himselfe under an old wall during the Skirmish, 11. That he was in Pembrook when the Fight was at Colby-Moore, he never was in person at taking in but La<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ghorne, and Carew, both which he lost againe most basely. 12. He would faine put a Colonell-ship upon Master <hi>Lort,</hi> who never yet had Commission, or raised Man <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Horse but for the Parliament. A great untruth of the Hue and Cry.</note>
+               <hi>against Generall</hi> Gerrard, <hi>and detained him and his F<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ces from joyning with the King at the <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ell of Naseby.</hi>
+            </p>
+            <p n="10">10. <hi>That he assisted Major Generall</hi> Laughorne, <hi>and Colonell</hi> Powell <hi>in routing of Col.</hi> Price <hi>and his Party before the Town of Carmarthen.</hi>
+            </p>
+            <p n="11">11. <hi>That he assisted Major Generall</hi> Laughorne <hi>in <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing of</hi> Egerton, Broad Bushell, <hi>and others in Colby-M<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re, and taking of Stuckepoll, the House of Colonell</hi> Roger Lort, <hi>Tre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lyon-House, Harreston-House, a strong Fort at the Pill; the Towne and Castle of Carmarthen, the Towne and Castle of Harford, the Towne and Castle of Tenby, the Towne and Castle of Cardigan, the Castles of Langhorne, Cary, Mannerby, Ro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch, and Embling, all Garrisons fortified against the Parliament.</hi>
+            </p>
+            <p n="12">12. <hi>What Jealousies, mispresentations, and suspi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ions have been cast upon him by Colonell</hi> Lort <hi>and his party, for these foure yeares past is not unknowne, procuring themselves to be made Committee<g ref="char:EOLhyphen"/>men, and other Officers, notwithstanding their malignancy, how they pursued him with Hue and Cry when be was going to the Gene<g ref="char:EOLhyphen"/>ralls Head-quarters.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
